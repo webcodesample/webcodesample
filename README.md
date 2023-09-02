@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @webcodesample
+- 👋 Hi, I’m @webcodesample for AMISERV INDIA SOLUTIONS
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently working on elearning concept based web project
 - 💞️ I’m looking to collaborate on Codeigniter, Wordpress, React, jQuery etc..
